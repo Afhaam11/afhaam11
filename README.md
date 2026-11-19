@@ -141,5 +141,3 @@ Yes, that's me in the header, staring off to the right like I'm waiting for some
 Meanwhile, a bot redraws my activity log every day while I sleep. It works harder than I do and has never once asked about a hackathon.
 
 Anyway: I build models that are right, not just confident, and I'd like to build one with you. [Email me](mailto:afhaam008@gmail.com) before the page runs out.
-
-*You can stop scrolling now. There's nothing else down here. I checked.*

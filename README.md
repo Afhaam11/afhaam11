@@ -16,7 +16,7 @@
 
 I like understanding what happens underneath the interface: what the model is actually doing, where its assumptions break, and whether the result is useful outside the demo.
 
-I work on machine learning, LLMs and agents, and on reinforcement learning when the thing being controlled has real constraints. I run models locally to learn what fits in VRAM and what quantization quietly costs, test ideas on real hardware when I can, and treat evaluation as part of the build rather than the paperwork after it. I keep entering hackathons because a deadline and a stranger using the thing are the quickest honest tests I know.
+I work on machine learning, LLMs and agents, and on reinforcement learning when the thing being controlled has real constraints. I run models locally to learn what fits in VRAM and what quantization quietly costs, test ideas on real hardware when I can, and treat evaluation as part of the build rather than the paperwork after it.
 
 <div align="center">
 <picture>
